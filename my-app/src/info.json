@@ -1,0 +1,134 @@
+{
+    "hombres": {
+        "calzado": [
+            {
+                "id": 1,
+                "name": "naa",
+                "marca": "Adidas",
+                "precio": 5614,
+                "stock": true,
+                "vendido": 1,
+                "calificacion": 5,
+                "talle": 37,
+                "img": "info-img..."
+            },
+            {
+                "id": 1,
+                "marca": "Nike",
+                "img": "info-img..."
+            },
+            {
+                "id": 1,
+                "marca": "Puma",
+                "img": "info-img..."
+            },
+            {
+                "id": 1,
+                "marca": "Adidas",
+                "img": "info-img..."
+            }
+        ],
+        "camisetas": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "buzos": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "pantalones": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "camperas": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "mujer": {
+        "calzado": [
+            {
+                "id": 1,
+                "marca": "Adidas",
+                "img": "info-img..."
+            },
+            {
+                "id": 1,
+                "marca": "Nike",
+                "img": "info-img..."
+            },
+            {
+                "id": 1,
+                "marca": "Puma",
+                "img": "info-img..."
+            },
+            {
+                "id": 1,
+                "marca": "Adidas",
+                "img": "info-img..."
+            }
+        ],
+        "camisetas": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "buzos": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "pantalones": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "camperas": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ]
+    }
+}
