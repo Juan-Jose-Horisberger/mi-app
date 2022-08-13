@@ -8,6 +8,10 @@ export default function Home() {
             <Link to='/SearchBar'>
                 <h1>Ir a Searchbar</h1>
             </Link>
+
+            <Link to='/Card'>
+                <h1>Ir a Card</h1>
+            </Link>
         </div>
     )
 }
