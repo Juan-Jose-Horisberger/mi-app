@@ -12,6 +12,10 @@ export default function Home() {
             <Link to='/Card'>
                 <h1>Ir a Card</h1>
             </Link>
+
+            <Link to='/Pagination'>
+                <h1>Ir a Pagination</h1>
+            </Link>
         </div>
     )
 }
