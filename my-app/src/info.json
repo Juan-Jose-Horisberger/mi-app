@@ -1,0 +1,450 @@
+{
+  "hombres": {
+    "calzado": [
+      {
+        "id": 1,
+        "name": "naa",
+        "marca": "Adidas",
+        "precio": 5614,
+        "stock": true,
+        "vendido": 1,
+        "calificacion": 5,
+        "talle": 37,
+        "img": "info-img..."
+      },
+      {
+        "id": 1,
+        "marca": "Nike",
+        "img": "info-img..."
+      },
+      {
+        "id": 1,
+        "marca": "Puma",
+        "img": "info-img..."
+      },
+      {
+        "id": 1,
+        "marca": "Adidas",
+        "img": "info-img..."
+      }
+    ],
+    "camisetas": [
+      {
+        "id": 1,
+        "name": "REMERA ADIDAS ORIGINALS ADIPLAY ESTAMPADA",
+        "marca": "Adidas",
+        "precio": 13.199,
+        "stock": 13,
+        "vendido": 6,
+        "calificacion": 3,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/590714-800-auto?v=637936063695630000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 2,
+        "name": "REMERA PUMA DOWNTOWN",
+        "marca": "Puma",
+        "precio": 6.999,
+        "stock": 17,
+        "vendido": 4,
+        "calificacion": 4,
+        "talle": "S",
+        "img": "https://essential.vtexassets.com/arquivos/ids/591399-800-auto?v=637937754813530000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 3,
+        "name": "REMERA ADIDAS ORIGINALS CLASSICS TRACE",
+        "marca": "Adidas",
+        "precio": 14.299,
+        "stock": 5,
+        "vendido": 16,
+        "calificacion": 4,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/587022-800-auto?v=637932201332830000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 4,
+        "name": "REMERA NIKE AIR 1",
+        "marca": "Nike",
+        "precio": 9.239,
+        "stock": 7,
+        "vendido": 12,
+        "calificacion": 4,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/579818-800-auto?v=637924804738570000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 5,
+        "name": "REMERA ADIDAS ORIGINALS COLORBLOCK",
+        "marca": "Adidas",
+        "precio": 14.299,
+        "stock": 6,
+        "vendido": 13,
+        "calificacion": 4,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/595310-800-auto?v=637944443278830000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 6,
+        "name": "REMERA PUMA SWXP GRAPHIC",
+        "marca": "Puma",
+        "precio": 6.499,
+        "stock": 7,
+        "vendido": 11,
+        "calificacion": 4,
+        "talle": "L",
+        "img": "https://essential.vtexassets.com/arquivos/ids/591268-800-auto?v=637937754145430000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 7,
+        "name": "REMERA ADIDAS ORIGINALS BLOCKED 3 BANDAS",
+        "marca": "Adidas",
+        "precio": 10.999,
+        "stock": 9,
+        "vendido": 7,
+        "calificacion": 2,
+        "talle": "XL",
+        "img": "https://essential.vtexassets.com/arquivos/ids/590671-800-auto?v=637936063476130000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 8,
+        "name": "REMERA NIKE CLUB",
+        "marca": "Nike",
+        "precio": 6.599,
+        "stock": 4,
+        "vendido": 16,
+        "calificacion": 5,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/556703-800-auto?v=637876957661900000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 9,
+        "name": "REMERA PUMA CLASSICS BLOCK BOXY",
+        "marca": "Puma",
+        "precio": 6.999,
+        "stock": 5,
+        "vendido": 17,
+        "calificacion": 5,
+        "talle": "L",
+        "img": "https://essential.vtexassets.com/arquivos/ids/571207-800-auto?v=637908282468730000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 10,
+        "name": "REMERA NIKE MARK 12",
+        "marca": "Nike",
+        "precio":  7.799,
+        "stock": 7,
+        "vendido": 11,
+        "calificacion": 2.4,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/556727-800-auto?v=637876957779700000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 11,
+        "name": "REMERA ADIDAS ORIGINALS ESSENTIAL",
+        "marca": "Adidas",
+        "precio": 10.999,
+        "stock": 15,
+        "vendido": 5,
+        "calificacion": 4,
+        "talle": "XS",
+        "img": "https://essential.vtexassets.com/arquivos/ids/586993-800-auto?v=637932201160830000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 12,
+        "name": "REMERA PUMA POCKET",
+        "marca": "Puma",
+        "precio": 7.499,
+        "stock": 3,
+        "vendido": 15,
+        "calificacion": 4.1,
+        "talle": "L",
+        "img": "https://essential.vtexassets.com/arquivos/ids/571199-800-auto?v=637908282433400000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 13,
+        "name": "REMERA PUMA CLASSICS LOGO",
+        "marca": "Puma",
+        "precio": 6.499,
+        "stock": 7,
+        "vendido": 9,
+        "calificacion": 3.3,
+        "talle": "S",
+        "img": "https://essential.vtexassets.com/arquivos/ids/571202-800-auto?v=637908282446830000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 14,
+        "name": "REMERA NIKE PHOTO ZERO",
+        "marca": "Nike",
+        "precio":  11.999,
+        "stock": 7,
+        "vendido": 14,
+        "calificacion": 4.1,
+        "talle": "L",
+        "img": "https://essential.vtexassets.com/arquivos/ids/546209-800-auto?v=637853603994300000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 15,
+        "name": "REMERA ADIDAS ORIGINALS TRIFOLIO ADICOLOR ESSENTIALS",
+        "marca": "Adidas",
+        "precio": 10.999,
+        "stock": 4,
+        "vendido": 14,
+        "calificacion": 4.7,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/543530-800-auto?v=637849266170330000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 16,
+        "name": "REMERA NIKE SWOOSH 50",
+        "marca": "Nike",
+        "precio":  9.239,
+        "stock": 14,
+        "vendido": 4,
+        "calificacion": 3.6,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/544151-800-auto?v=637850384197630000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 17,
+        "name": "REMERA PUMA ESSENTIALS",
+        "marca": "Puma",
+        "precio": 4.999,
+        "stock": 5,
+        "vendido": 18,
+        "calificacion": 4.5,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/562058-800-auto?v=637892431827500000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 18,
+        "name": "REMERA ADIDAS ORIGINALS ESSENTIAL",
+        "marca": "Adidas",
+        "precio": 10.999,
+        "stock": 8,
+        "vendido": 12,
+        "calificacion": 3.7,
+        "talle": "XL",
+        "img": "https://essential.vtexassets.com/arquivos/ids/532355-800-auto?v=637828507520830000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 19,
+        "name": "REMERA NIKE SWOOSH 50",
+        "marca": "Nike",
+        "precio":  9.239,
+        "stock": 8,
+        "vendido": 14,
+        "calificacion": 4.4,
+        "talle": "XS",
+        "img": "https://essential.vtexassets.com/arquivos/ids/532332-800-auto?v=637828507375000000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 20,
+        "name": "REMERA PUMA CLASSICS BOXY",
+        "marca": "Puma",
+        "precio": 6.999,
+        "stock": 7,
+        "vendido": 10,
+        "calificacion": 3.1,
+        "talle": "L",
+        "img": "https://essential.vtexassets.com/arquivos/ids/561593-800-auto?v=637891602016870000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 21,
+        "name": "REMERA ADIDAS ORIGINALS TREFOIL",
+        "marca": "Adidas",
+        "precio": 10.999,
+        "stock": 9,
+        "vendido": 8,
+        "calificacion": 4.6,
+        "talle": "S",
+        "img": "https://essential.vtexassets.com/arquivos/ids/532358-800-auto?v=637828507536470000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 22,
+        "name": "REMERA PUMA ESSENTIALS",
+        "marca": "Puma",
+        "precio": 5.499,
+        "stock": 8,
+        "vendido": 14,
+        "calificacion": 3.2,
+        "talle": "L",
+        "img": "https://essential.vtexassets.com/arquivos/ids/529843-800-auto?v=637822541402470000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 23,
+        "name": "REMERA NIKE FUTURA",
+        "marca": "Nike",
+        "precio": 5.999,
+        "stock": 12,
+        "vendido": 6,
+        "calificacion": 2.2,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/488945-800-auto?v=637713897340400000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 24,
+        "name": "REMERA ADIDAS ORIGINALS ADICOLOR",
+        "marca": "Adidas",
+        "precio": 10.999,
+        "stock": 7,
+        "vendido": 10,
+        "calificacion": 4.2,
+        "talle": "S",
+        "img": "https://essential.vtexassets.com/arquivos/ids/525044-800-auto?v=637810513699100000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 25,
+        "name": "REMERA PUMA REBEL",
+        "marca": "Puma",
+        "precio": 4.999,
+        "stock": 9,
+        "vendido": 13,
+        "calificacion": 4.1,
+        "talle": "XL",
+        "img": "https://essential.vtexassets.com/arquivos/ids/526024-800-auto?v=637813933364030000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 26,
+        "name": "REMERA NIKE SWOOSH 50",
+        "marca": "Nike",
+        "precio": 9.239,
+        "stock": 15,
+        "vendido": 5,
+        "calificacion": 2.5,
+        "talle": "L",
+        "img": "https://essential.vtexassets.com/arquivos/ids/532324-800-auto?v=637828507302200000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 27,
+        "name": "REMERA ADIDAS ORIGINALS TRIFOLIO SCRIPT",
+        "marca": "Adidas",
+        "precio": 8.299,
+        "stock": 5,
+        "vendido": 19,
+        "calificacion": 4.7,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/528542-800-auto?v=637818592765230000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 28,
+        "name": "REMERA PUMA BMW VINTAGE",
+        "marca": "Puma",
+        "precio":  7.999,
+        "stock": 19,
+        "vendido": 13,
+        "calificacion": 4.6,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/518746-800-auto?v=637793372350170000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 29,
+        "name": "REMERA ADIDAS ORIGINALS CLASSICS 3 TIRAS",
+        "marca": "Adidas",
+        "precio": 8.299,
+        "stock": 9,
+        "vendido": 14,
+        "calificacion": 3.8,
+        "talle": "XS",
+        "img": "https://essential.vtexassets.com/arquivos/ids/514444-800-auto?v=637787028394800000&width=800&height=auto&aspect=true"
+      },
+      {
+        "id": 30,
+        "name": "REMERA PUMA LOGO",
+        "marca": "Puma",
+        "precio":  4.999,
+        "stock": 9,
+        "vendido": 14,
+        "calificacion": 3.9,
+        "talle": "M",
+        "img": "https://essential.vtexassets.com/arquivos/ids/474840-800-auto?v=637680787130030000&width=800&height=auto&aspect=true"
+      }
+    ],
+    "buzos": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "pantalones": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "camperas": [
+      
+    ]
+  },
+  "mujer": {
+    "calzado": [
+      {
+        "id": 1,
+        "marca": "Adidas",
+        "img": "info-img..."
+      },
+      {
+        "id": 1,
+        "marca": "Nike",
+        "img": "info-img..."
+      },
+      {
+        "id": 1,
+        "marca": "Puma",
+        "img": "info-img..."
+      },
+      {
+        "id": 1,
+        "marca": "Adidas",
+        "img": "info-img..."
+      }
+    ],
+    "camisetas": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "buzos": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "pantalones": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "camperas": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  }
+}
