@@ -3,29 +3,333 @@
         "calzado": [
             {
                 "id": 1,
-                "name": "naa",
+                "name": "ZAPATILLAS ADIDAS ZX 5K BOOST",
                 "marca": "Adidas",
-                "precio": 5614,
-                "stock": true,
+                "precio": 47.999,
+                "stock": 3,
+                "vendido": 0,
+                "calificacion": 3,
+                "talle": 37,
+                "img": "https://essential.vtexassets.com/arquivos/ids/602027-800-auto?v=637956635991000000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 2,
+                "name": "ZAPATILLAS ADIDAS OZWEEGO",
+                "marca": "Adidas",
+                "precio": 35.999,
+                "stock": 5,
+                "vendido": 3,
+                "calificacion": 3.5,
+                "talle": 35,
+                "img": "https://essential.vtexassets.com/arquivos/ids/600107-800-auto?v=637955558442470000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 3,
+                "name": "ZAPATILLAS ADIDAS NIZZA",
+                "marca": "Adidas",
+                "precio":  19.999,
+                "stock": 2,
                 "vendido": 1,
+                "calificacion": 2.6,
+                "talle": 40,
+                "img": "https://essential.vtexassets.com/arquivos/ids/601978-800-auto?v=637956635738830000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 4,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS FORUM",
+                "marca": "Adidas",
+                "precio": 40.699,
+                "stock": 10,
+                "vendido": 5,
+                "calificacion": 4.5,
+                "talle": 45,
+                "img": "https://essential.vtexassets.com/arquivos/ids/574044-1200-auto?v=637919758376300000&width=1200&height=auto&aspect=true"
+            },
+            {
+                "id": 5,
+                "name": "ZAPATILLAS NIKE AIR HUARACHE",
+                "marca": "Nike",
+                "precio": 40.799,
+                "stock": 20,
+                "vendido": 5,
+                "calificacion": 2.5,
+                "talle": 39,
+                "img": "https://essential.vtexassets.com/arquivos/ids/601640-800-auto?v=637956577895670000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 6,
+                "name": "ZAPATILLAS NIKE AIR MAX PRE DAY SE",
+                "marca": "Nike",
+                "precio": 49.199,
+                "stock": 25,
+                "vendido": 5,
+                "calificacion": 0,
+                "talle": 35,
+                "img": "https://essential.vtexassets.com/arquivos/ids/598671-800-auto?v=637952305641230000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 7,
+                "name": "ZAPATILLAS NIKE AIR VAPORMAX",
+                "marca": "Nike",
+                "precio": 65.999,
+                "stock": 15,
+                "vendido": 4,
+                "calificacion": 1.5,
+                "talle": 40,
+                "img": "https://essential.vtexassets.com/arquivos/ids/598665-800-auto?v=637952302596000000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 8,
+                "name": "ZAPATILLAS NIKE AIR MAX 90 SE",
+                "marca": "Nike",
+                "precio": 43.199,
+                "stock": 20,
+                "vendido": 6,
+                "calificacion": 1.7,
+                "talle": 42,
+                "img": "https://essential.vtexassets.com/arquivos/ids/576987-800-auto?v=637921838773470000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 9,
+                "name": "ZAPATILLAS NIKE AIR MAX 97 SE",
+                "marca": "Nike",
+                "precio": 55.199,
+                "stock": 15,
+                "vendido": 2,
+                "calificacion": 2,
+                "talle": 44,
+                "img": "https://essential.vtexassets.com/arquivos/ids/577345-800-auto?v=637921849264530000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 10,
+                "name": "ZAPATILLAS NIKE AIR HUARACHE",
+                "marca": "Nike",
+                "precio": 38.399,
+                "stock": 30,
+                "vendido": 0,
                 "calificacion": 5,
                 "talle": 37,
-                "img": "info-img..."
+                "img": "https://essential.vtexassets.com/arquivos/ids/573958-800-auto?v=637919757965930000&width=800&height=auto&aspect=true"
             },
             {
-                "id": 1,
+                "id": 11,
+                "name": "ZAPATILLAS NIKE COURT LEGACY",
                 "marca": "Nike",
-                "img": "info-img..."
+                "precio": 25.199,
+                "stock": 10,
+                "vendido": 3,
+                "calificacion": 3.5,
+                "talle": 36,
+                "img": "https://essential.vtexassets.com/arquivos/ids/569229-800-auto?v=637904789768200000&width=800&height=auto&aspect=true"
             },
             {
-                "id": 1,
+                "id": 12,
+                "name": "ZAPATILLAS NIKE AIR VAPOR MAX 2021",
+                "marca": "Nike",
+                "precio": 65.999,
+                "stock": 22,
+                "vendido": 10,
+                "calificacion": 3.5,
+                "talle": 44,
+                "img": "https://essential.vtexassets.com/arquivos/ids/564254-800-auto?v=637896920226570000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 13,
+                "name": "ZAPATILLAS PUMA RS OUTLINE",
                 "marca": "Puma",
-                "img": "info-img..."
+                "precio":  21.999,
+                "stock": 16,
+                "vendido": 4,
+                "calificacion": 2,
+                "talle": 45,
+                "img": "https://essential.vtexassets.com/arquivos/ids/595316-800-auto?v=637944443307400000&width=800&height=auto&aspect=true"
             },
             {
-                "id": 1,
+                "id": 14,
+                "name": "ZAPATILLAS PUMA TRC BLAZE",
+                "marca": "Puma",
+                "precio": 24.999,
+                "stock": 30,
+                "vendido": 10,
+                "calificacion": 1.5,
+                "talle": 36,
+                "img": "https://essential.vtexassets.com/arquivos/ids/595614-800-auto?v=637944583275800000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 15,
+                "name": "ZAPATILLAS PUMA TRC BLAZE",
+                "marca": "Puma",
+                "precio": 24.999,
+                "stock": 25,
+                "vendido": 3,
+                "calificacion": 1.7,
+                "talle": 40,
+                "img": "https://essential.vtexassets.com/arquivos/ids/592589-800-auto?v=637938457358700000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 16,
+                "name": "ZAPATILLAS PUMA FUTURE RIDER",
+                "marca": "Puma",
+                "precio": 19.499,
+                "stock": 20,
+                "vendido": 10,
+                "calificacion": 2.3,
+                "talle": 42,
+                "img": "https://essential.vtexassets.com/arquivos/ids/591150-800-auto?v=637937753615770000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 17,
+                "name": "ZAPATILLAS PUMA RS FAST LIMITER",
+                "marca": "Puma",
+                "precio": 24.999,
+                "stock": 27,
+                "vendido": 6,
+                "calificacion": 4.3,
+                "talle": 39,
+                "img": "https://essential.vtexassets.com/arquivos/ids/581381-800-auto?v=637927000535000000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 18,
+                "name": "ZAPATILLAS PUMA FUTURE RIDER",
+                "marca": "Puma",
+                "precio": 19.499,
+                "stock": 22,
+                "vendido": 2,
+                "calificacion": 2.4,
+                "talle": 40,
+                "img": "https://essential.vtexassets.com/arquivos/ids/553700-800-auto?v=637871214691970000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 19,
+                "name": "ZAPATILLAS PUMA FUTURE RIDER PLAY ON",
+                "marca": "Puma",
+                "precio": 19.499,
+                "stock": 10,
+                "vendido": 15,
+                "calificacion": 2,
+                "talle": 36,
+                "img": "https://essential.vtexassets.com/arquivos/ids/546708-800-auto?v=637855301932100000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 20,
+                "name": "ZAPATILLAS PUMA CITY RIDER VAPOROUS",
+                "marca": "Puma",
+                "precio":  19.499,
+                "stock": 29,
+                "vendido": 20,
+                "calificacion": 5,
+                "talle": 39,
+                "img": "https://essential.vtexassets.com/arquivos/ids/535317-800-auto?v=637834118094630000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 21,
+                "name": "ZAPATILLAS PUMA RS-Z AS",
+                "marca": "Puma",
+                "precio": 21.999,
+                "stock": 28,
+                "vendido": 15,
+                "calificacion": 4.6,
+                "talle": 42,
+                "img": "https://essential.vtexassets.com/arquivos/ids/525023-800-auto?v=637810513609630000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 22,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS SUPERSTAR",
                 "marca": "Adidas",
-                "img": "uwu..."
+                "precio": 35.199,
+                "stock": 6,
+                "vendido": 20,
+                "calificacion": 4.2,
+                "talle": 41,
+                "img": "https://essential.vtexassets.com/arquivos/ids/579605-800-auto?v=637922714047770000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 23,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS FORUM LOW",
+                "marca": "Adidas",
+                "precio": 40.699,
+                "stock":  15,
+                "vendido": 16,
+                "calificacion": 2.5,
+                "talle": 42,
+                "img": "https://essential.vtexassets.com/arquivos/ids/588879-800-auto?v=637933220405400000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 24,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS STAN SMITH",
+                "marca": "Adidas",
+                "precio": 30.799,
+                "stock": 26,
+                "vendido": 10,
+                "calificacion": 2.6,
+                "talle": 36,
+                "img": "https://essential.vtexassets.com/arquivos/ids/574037-800-auto?v=637919758343500000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 25,
+                "name": "ZAPATILLAS ADIDAS OZWEEGO",
+                "marca": "Adidas",
+                "precio": 38.999,
+                "stock": 20,
+                "vendido": 17,
+                "calificacion": 3,
+                "talle": 40,
+                "img": "https://essential.vtexassets.com/arquivos/ids/602060-800-auto?v=637956636141370000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 26,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS MULTIX",
+                "marca": "Adidas",
+                "precio": 26.399,
+                "stock": 5,
+                "vendido": 16,
+                "calificacion": 1.6,
+                "talle": 38,
+                "img": "https://essential.vtexassets.com/arquivos/ids/574017-800-auto?v=637919758254430000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 27,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS MULTIX",
+                "marca": "Adidas",
+                "precio": 26.399,
+                "stock": 24,
+                "vendido": 4,
+                "calificacion": 3.4,
+                "talle": 44,
+                "img": "https://essential.vtexassets.com/arquivos/ids/574084-800-auto?v=637919758566930000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 28,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS GEODIVER PRIMEBLUE",
+                "marca": "Adidas",
+                "precio": 30.999,
+                "stock": 28,
+                "vendido": 3,
+                "calificacion": 2.6,
+                "talle": 42,
+                "img": "https://essential.vtexassets.com/arquivos/ids/565326-800-auto?v=637898519929530000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 29,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS RETROPY F2",
+                "marca": "Adidas",
+                "precio": 29.699,
+                "stock": 22,
+                "vendido": 16,
+                "calificacion": 3.6,
+                "talle": 41,
+                "img": "https://essential.vtexassets.com/arquivos/ids/564276-800-auto?v=637896920362270000&width=800&height=auto&aspect=true"
+            },
+            {
+                "id": 30,
+                "name": "ZAPATILLAS ADIDAS ORIGINALS ZX 2K BOOST 2.0",
+                "marca": "Adidas",
+                "precio": 42.899,
+                "stock": 29,
+                "vendido": 16,
+                "calificacion": 2.6,
+                "talle": 37,
+                "img": "https://essential.vtexassets.com/arquivos/ids/562183-800-auto?v=637892432349070000&width=800&height=auto&aspect=true"
             }
         ],
         "camisetas": [
